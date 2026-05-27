@@ -1,0 +1,16 @@
+[    1978ms] [LOG] {$$typeof: Symbol(react.element), type: , key: null, ref: null, props: Object} @ https://rahulshettyacademy.com/seleniumPractise/main.2ca8f6754e85a5b3842e.js:0
+[    2017ms] [LOG] {$$typeof: Symbol(react.element), type: , key: null, ref: null, props: Object} @ https://rahulshettyacademy.com/seleniumPractise/main.2ca8f6754e85a5b3842e.js:0
+[    7813ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://rahulshettyacademy.com/seleniumPractise/////////////////////favicon.ico:0
+[   23311ms] [LOG] 1 @ https://rahulshettyacademy.com/seleniumPractise/main.2ca8f6754e85a5b3842e.js:5
+[   23311ms] [LOG] [Object] @ https://rahulshettyacademy.com/seleniumPractise/main.2ca8f6754e85a5b3842e.js:5
+[   29224ms] [LOG] 1 @ https://rahulshettyacademy.com/seleniumPractise/main.2ca8f6754e85a5b3842e.js:5
+[   29224ms] [LOG] [Object, Object] @ https://rahulshettyacademy.com/seleniumPractise/main.2ca8f6754e85a5b3842e.js:5
+[   34264ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://rahulshettyacademy.com/seleniumPractise/////////////////////favicon.ico:0
+[   39680ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://rahulshettyacademy.com/seleniumPractise/////////////////////favicon.ico:0
+[   39681ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://rahulshettyacademy.com/seleniumPractise/////////////////////favicon.ico:0
+[   43263ms] [LOG] Total buttons: 0 @ :3
+[   43264ms] [LOG] Total products: 0 @ :4
+[   43264ms] [LOG] Cauliflower found: false @ :7
+[   55543ms] [LOG] {$$typeof: Symbol(react.element), type: , key: null, ref: null, props: Object} @ https://rahulshettyacademy.com/seleniumPractise/main.2ca8f6754e85a5b3842e.js:0
+[   55561ms] [LOG] {$$typeof: Symbol(react.element), type: , key: null, ref: null, props: Object} @ https://rahulshettyacademy.com/seleniumPractise/main.2ca8f6754e85a5b3842e.js:0
+[   56014ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://rahulshettyacademy.com/seleniumPractise/////////////////////favicon.ico:0
