@@ -12,7 +12,7 @@ test('Complete checkout flow with Cauliflower and Carrot', async ({ page }) => {
   await page.getByRole('button', { name: 'ADD TO CART' }).nth(1).click();
   await page.waitForTimeout(300);
   
-  // Step 3: Add Carrot to cart
+  // Step 3: Add Carrot to cart aDDED TO CART
   // Carrot is the fifth product (index 4)
   await page.locator('button:has-text("ADD TO CART")').nth(4).click();
   await page.waitForTimeout(300);
